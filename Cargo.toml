@@ -1,0 +1,17 @@
+[package]
+name = "ash_wrap"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "Placeholder for a package to come"
+documentation = "https://docs.rs/ash_wrap"
+repository = "https://github.com/idanraiter/ash_wrap"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[lib]
+name = "ash_wrap"
+path = "lib.rs"
